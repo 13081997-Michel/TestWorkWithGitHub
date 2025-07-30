@@ -13,7 +13,7 @@ int main()
     Book book4;
     book4.setBookDetails("Poseidon", "DDDDD", "Dave", true);
     Book book5;
-    book5.setBookDetails("Secrets", "EEEEEE", "Michael", true);
+    book5.setBookDetails("Secrets", "ZZZZZ", "Michael", true);
 
 
     Book array[300];
